@@ -1,0 +1,17 @@
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\bin\Debug\net6.0\PR8.exe
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\bin\Debug\net6.0\PR8.deps.json
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\bin\Debug\net6.0\PR8.runtimeconfig.json
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\bin\Debug\net6.0\PR8.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\bin\Debug\net6.0\PR8.pdb
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\obj\Debug\net6.0\PR8.csproj.AssemblyReference.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\obj\Debug\net6.0\PR8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\obj\Debug\net6.0\PR8.AssemblyInfoInputs.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\obj\Debug\net6.0\PR8.AssemblyInfo.cs
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\obj\Debug\net6.0\PR8.csproj.CoreCompileInputs.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\obj\Debug\net6.0\PR8.csproj.CopyComplete
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\obj\Debug\net6.0\PR8.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\obj\Debug\net6.0\refint\PR8.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\obj\Debug\net6.0\PR8.pdb
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\obj\Debug\net6.0\PR8.genruntimeconfig.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\PR8\PR8\obj\Debug\net6.0\ref\PR8.dll
